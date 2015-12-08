@@ -1,4 +1,5 @@
 // supersecret credentials
+window.onload = function(){
 			var accountUsername = "Heleen";
 			var accountPassword = "heleen98";
 
@@ -25,3 +26,4 @@
 					}
 				}
 			}
+}
